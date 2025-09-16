@@ -1,0 +1,19 @@
+tr,th{
+    border: 1px solid black;
+}
+table{
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+thead{
+    background-color: black;
+    color: aquamarine;
+}
+tbody{
+    background-color: aquamarine;
+    color: black;
+}
+tbody tr:hover{
+    background-color: bisque;
+}
